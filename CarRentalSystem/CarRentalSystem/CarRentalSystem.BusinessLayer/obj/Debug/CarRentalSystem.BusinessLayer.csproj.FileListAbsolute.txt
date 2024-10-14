@@ -1,0 +1,12 @@
+D:\C#\CarRentalSystem\CarRentalSystem.BusinessLayer\bin\Debug\CarRentalSystem.BusinessLayer.dll
+D:\C#\CarRentalSystem\CarRentalSystem.BusinessLayer\bin\Debug\CarRentalSystem.BusinessLayer.pdb
+D:\C#\CarRentalSystem\CarRentalSystem.BusinessLayer\bin\Debug\CarRentalSystem.Entity.dll
+D:\C#\CarRentalSystem\CarRentalSystem.BusinessLayer\bin\Debug\CarRentalSystem.Entity.pdb
+D:\C#\CarRentalSystem\CarRentalSystem.BusinessLayer\obj\Debug\CarRentalSystem.BusinessLayer.csproj.AssemblyReference.cache
+D:\C#\CarRentalSystem\CarRentalSystem.BusinessLayer\obj\Debug\CarRentalSystem.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\C#\CarRentalSystem\CarRentalSystem.BusinessLayer\obj\Debug\CarRenta.EDF35144.Up2Date
+D:\C#\CarRentalSystem\CarRentalSystem.BusinessLayer\obj\Debug\CarRentalSystem.BusinessLayer.dll
+D:\C#\CarRentalSystem\CarRentalSystem.BusinessLayer\obj\Debug\CarRentalSystem.BusinessLayer.pdb
+D:\C#\CarRentalSystem\CarRentalSystem.BusinessLayer\bin\Debug\CarRentalSystem.DatabaseConnection.dll
+D:\C#\CarRentalSystem\CarRentalSystem.BusinessLayer\bin\Debug\CarRentalSystem.DatabaseConnection.pdb
+D:\C#\CarRentalSystem\CarRentalSystem.BusinessLayer\bin\Debug\dbconfig.properties
