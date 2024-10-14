@@ -1,6 +1,0 @@
-D:\C#\CarRentalSystem\CarRentalSystem.Entity\bin\Debug\CarRentalSystem.Entity.dll
-D:\C#\CarRentalSystem\CarRentalSystem.Entity\bin\Debug\CarRentalSystem.Entity.pdb
-D:\C#\CarRentalSystem\CarRentalSystem.Entity\obj\Debug\CarRentalSystem.Entity.csproj.AssemblyReference.cache
-D:\C#\CarRentalSystem\CarRentalSystem.Entity\obj\Debug\CarRentalSystem.Entity.csproj.CoreCompileInputs.cache
-D:\C#\CarRentalSystem\CarRentalSystem.Entity\obj\Debug\CarRentalSystem.Entity.dll
-D:\C#\CarRentalSystem\CarRentalSystem.Entity\obj\Debug\CarRentalSystem.Entity.pdb
